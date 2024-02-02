@@ -8,10 +8,12 @@ Assessment is a continuous systematic process that inferences about learning and
      The main scope of the project is to develop A design of suitable automated system for generating question papers and managing related data may prove vital in an Educational Institute. In this project, we have proposed an integrated automated system that stores questions related to a particular course and prints a question paper based on its syllabus and curriculum. We have implemented a role-based hierarchy which restricts access to the users. The system also deploys security mechanisms that prohibit duplication of question papers. There are provisions to enter and edit data suitable to any educational organization with complete freedom for specifying courses, semesters, syllabus and pattern
 **SCREENSHOTS**
 **INDEX**
-![Screenshot (92)](https://github.com/Vinaygopal27/QUESTION-PAPER-SETTER/assets/136787978/8d3e4eb8-f512-4307-a829-623db525e609)
+![Screenshot (88)](https://github.com/Vinaygopal27/QUESTION-PAPER-SETTER/assets/136787978/34ccde2b-9195-4460-a7f2-82baa5fdda48)
+
 **LOGIN**
 ![Screenshot (90)](https://github.com/Vinaygopal27/QUESTION-PAPER-SETTER/assets/136787978/8d7707e9-e95a-4685-a378-fa7dcc9272e6)
 ![Screenshot (89)](https://github.com/Vinaygopal27/QUESTION-PAPER-SETTER/assets/136787978/2e45db94-8dbe-44c3-b0a3-4fa944aa45a4)
 **GENERATION**
-![Screenshot (88)](https://github.com/Vinaygopal27/QUESTION-PAPER-SETTER/assets/136787978/34ccde2b-9195-4460-a7f2-82baa5fdda48)
+![Screenshot (92)](https://github.com/Vinaygopal27/QUESTION-PAPER-SETTER/assets/136787978/8d3e4eb8-f512-4307-a829-623db525e609)
+
 
